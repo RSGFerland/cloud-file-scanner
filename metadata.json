@@ -1,0 +1,9 @@
+
+{
+  "name": "OpsVault Refresh",
+  "description": "A high-performance IT Ops toolkit for Resource Systems Group (RSG), featuring SharePoint heavy-file scanning, automated Robocopy archival workflows, Azure-ready architecture, and gamified file management with a reactive virtual pet.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
