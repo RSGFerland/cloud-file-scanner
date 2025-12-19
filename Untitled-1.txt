@@ -1,0 +1,7 @@
+npm i --save-dev @types/node
+
+{
+  "compilerOptions": {
+    "types": ["node"]
+  }
+}

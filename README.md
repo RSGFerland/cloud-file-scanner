@@ -15,6 +15,9 @@ View your app in AI Studio: https://ai.studio/apps/temp/1
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+2. Set the following environment variables in [.env.local](.env.local):
+   - AZURE_OPENAI_ENDPOINT: Your Azure OpenAI endpoint URL
+   - AZURE_OPENAI_API_KEY: Your Azure OpenAI API key
+   - AZURE_OPENAI_DEPLOYMENT: Your Azure OpenAI deployment name
 3. Run the app:
    `npm run dev`
